@@ -297,3 +297,103 @@ margin-top: 20px;
         padding-top: 5px;
     }
   
+
+
+
+/* ================= MOBILE RESPONSIVE ================= */
+
+@media only screen and (max-width: 768px){
+
+/* Navbar */
+.navbar{
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px;
+}
+
+.nav-logo{
+    width: 80px;
+}
+
+/* Search bar full width */
+.nav-search{
+    width: 100%;
+    margin-top: 10px;
+}
+
+/* Hide language box on small screens */
+.language{
+    display: none;
+}
+
+/* Panel menu wrap */
+.panel{
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px;
+}
+
+.panel-ops{
+    width: 100%;
+    margin-top: 5px;
+}
+
+/* Hero section */
+.hero-section{
+    height: 200px;
+}
+
+.hero-message{
+    width: 95%;
+    font-size: 0.75rem;
+}
+
+/* Product boxes */
+.box{
+    width: 90%;
+    margin-top: 15px;
+}
+
+/* Footer */
+.foot-panel2{
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+}
+
+ul{
+    margin-top: 20px;
+}
+
+}
+
+/* ================= SMALL MOBILE ================= */
+
+@media only screen and (max-width: 480px){
+
+.nav-signing,
+.nav-return{
+    display: none; /* hide extra items */
+}
+
+.nav-cart{
+    font-size: 0.75rem;
+}
+
+.search-select{
+    display: none;
+}
+
+.search-input{
+    font-size: 0.9rem;
+}
+
+.hero-section{
+    height: 180px;
+}
+
+.hero-message{
+    font-size: 0.7rem;
+}
+
+}
