@@ -34,8 +34,8 @@ Amazon-Landing-Page-Clone/
 ## 📸 Screenshots
 
 <img width="1918" height="1023" alt="nav-page" src="https://github.com/user-attachments/assets/0f1aac55-bff5-4cc5-a69b-e244a210eadc" />
-<img width="1912" height="1017" alt="footer-section" src="https://github.com/user-attachments/assets/aaa1502e-b7f1-4093-bf1b-ad3fdd42dffd" />
 <img width="1918" height="1023" alt="body-section" src="https://github.com/user-attachments/assets/d2db967b-2995-4374-809d-5e0a88596adb" />
+<img width="1912" height="1017" alt="footer-section" src="https://github.com/user-attachments/assets/aaa1502e-b7f1-4093-bf1b-ad3fdd42dffd" />
 
 
 ## 🎯 Purpose
